@@ -1,0 +1,23 @@
+# live-build output and cache
+.build/
+binary/
+binary.contents
+binary.packages
+cache/
+chroot/
+chroot.files
+chroot.packages.live
+chroot.packages.install
+
+# built images
+*.iso
+*.img
+*.hybrid.iso
+
+# live-build logs
+*.log
+
+# temporary files
+*.tmp
+*~
+.DS_Store
