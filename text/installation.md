@@ -1,6 +1,6 @@
 # SETUP
 
-These steps run upon the first bootup after installing the system from the live system. This is what makes up everything that this project adds to the debian installation.
+These steps run upon the first bootup after installing the system from the live system. 
 
 ## Minecraft version
 The user will be given the choice between the latest Minecraft version or older versions as the server version that will be installed.At first i will add only the current Minecraft version to this script with many if not all Minecraft versions later.
