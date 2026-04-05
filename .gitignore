@@ -8,14 +8,16 @@ chroot/
 chroot.files
 chroot.packages.live
 chroot.packages.install
+config/
 
 # built images
 *.iso
 *.img
 *.hybrid.iso
-
-# live-build logs
-*.log
+*.contents
+*.files
+*.zsync
+*.packages
 
 # temporary files
 *.tmp
